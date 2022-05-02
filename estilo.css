@@ -1,0 +1,91 @@
+/*paleta= E0D8B0 ,  FCFFE7,  DEA057,  CE9461    */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@100&display=swap');
+
+body{
+    font-family:'Montserrat';
+    margin: 0%;
+}
+
+
+#navbar{
+    background-color: #DEA057 ;
+    height: 5em;
+}
+
+#navbar a{
+    float: left;
+    color: white;
+    text-decoration: none;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: large;
+}
+
+#navbar img{
+    float: left;
+    width: 80px;
+}
+
+#principal img{
+    width: 1350px;
+
+}
+
+#info {
+    background-color: #CE9461;
+    text-align: center;
+    margin: top 0%; ;
+    padding-top: 5%;
+    height: 65vh;
+
+
+}
+
+.item-foto {
+    float: left;
+    margin-left: 5%;
+   
+}
+
+#card{
+    background-color: #E0D8B0;
+    float: right;
+    text-align: center;
+    margin: top 0%; ;
+    padding-top: 5%;
+    height: 65vh;
+    width: 100%;
+    font-size:x-large;
+    
+}
+
+#card img{
+    float: left;
+    width: 500px;
+    margin-left: 2%;
+}
+
+#card button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2%;
+}
+
+footer{
+    background-color: rgb(241, 99, 16);
+    text-align: center;
+    padding: 3%; 
+    }
+
+
+/*Pagina dois- sobre*/
+
+#criador img{
+    width: 300px;
+    border-radius: 30%;
+    float: left;
+}
+
+#criador p{
+    text-align: center;
+    
+}
